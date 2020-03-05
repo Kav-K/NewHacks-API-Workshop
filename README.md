@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="part-2">Part 2</h1>
+<h1 id="part-3">Part 3</h1>
 <p>This section will aim to give you an understanding of how to programatically make API requests and use the data</p>
 <h1 id="some-notes-before-starting">Some notes before starting</h1>
 <p>You’re going to want to clone this repository, and switch to this branch (part-3) if you want the python files to follow along! Or you can download the file directly from the web version of github by just clicking on it and clicking download!<br>
