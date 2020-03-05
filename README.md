@@ -34,5 +34,5 @@ That box that you see is the request information! This is a GET request, more in
 <img src="https://i.imgur.com/DHNb5rK.png" alt="enter image description here"><br>
 As you can see, it looks very similar to the GET request that we made to google earlier, with some key differences. The “Request Method” is now “POST”, and we have this new section called “Form Data”.  This new form data section contains the information that we submitted along with our POST request to the imgur server! As you can see, it contains the username and the password that we sent when we tried to log in. It also has some extra stuff like the “remember” field for if we wanted imgur to remember our password.</p>
 <p>We will get more into GET and POST requests and start properly using them in the next part, and we will learn of some of the finer intricacies that these requests have!</p>
-<p><a href="https://github.com/Kav-K/NewHacks-API-Workshop/tree/part-2"></a></p><h3>Click here to go to Part 2 (or switch your branch to part-2)</h3><p></p>
+<p><a href="https://github.com/Kav-K/NewHacks-API-Workshop/tree/part-2"></a></p><h3><a href="https://github.com/Kav-K/NewHacks-API-Workshop/tree/part-2">Click here to go to Part 2 (or switch your branch to part-2)</a></h3><p></p>
 
