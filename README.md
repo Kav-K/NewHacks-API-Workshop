@@ -24,3 +24,4 @@
 <p>If you’re familiar with git, you can also clone the repo to your local file system using Github Desktop, or by typing <code>git clone https://github.com/Kav-K/NewHacks-API-Workshop</code> and then switch branches with <code>git checkout &lt;branch name&gt;</code></p>
 <p>All of the materials you will need for the workshop (except the prerequisites) are all in this repository. In case you get bored of listening to me or have other commitments to attend to during the workshop time slot, you can work on this workshop at home as long as you have this link!</p>
 
+<a href="https://github.com/Kav-K/NewHacks-API-Workshop/tree/part-1"><h3>Ready to get started? Click here to go to part-1 (or git checkout part-1)</h3></a>
