@@ -83,5 +83,5 @@ a_parameter=a_value&amp;another_parameter=another_value
 </code></pre>
 <p>The parameters are after the headers of the request, and are not in the URL!</p>
 <p>You’ve now learned how to make a request to an API and how they work in a generalized sense, continue to the next part where we start programatically using the data!</p>
-<p><a href="https://github.com/Kav-K/NewHacks-API-Workshop/tree/part-3"></a><a href="https://github.com/Kav-K/NewHacks-API-Workshop/tree/part-3"></a></p><h3>Click here to go to Part 3 (or switch your branch to part-3)</h3><p></p>
+<p><a href="https://github.com/Kav-K/NewHacks-API-Workshop/tree/part-3"></a></p><h3>Click here to go to Part 3 (or switch your branch to part-3)</h3><p></p>
 
